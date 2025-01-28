@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "clearance-app-e89dc",
+          "appId": "1:686102221973:android:3aaec9bca6922768d9b79c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "clearance-app-e89dc",
+          "configurations": {
+            "android": "1:686102221973:android:3aaec9bca6922768d9b79c",
+            "ios": "1:686102221973:ios:3e9fb16d0ca116a7d9b79c",
+            "web": "1:686102221973:web:6acb1c96416fc6cdd9b79c"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": []
+
+    }
+  ]
+}

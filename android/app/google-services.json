@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686102221973",
+    "project_id": "clearance-app-e89dc",
+    "storage_bucket": "clearance-app-e89dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686102221973:android:3aaec9bca6922768d9b79c",
+        "android_client_info": {
+          "package_name": "com.example.clearance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiiFVwbDBcviC-DOjSFcZRCUCpjdliwbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
